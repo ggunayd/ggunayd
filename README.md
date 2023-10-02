@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gülbahar</h1>
+<h1 align="center">Hi There 👩‍💻 </h1> 
 - 🌱 I'm currently learning **Unity, C#**
 
 <h3 align="left">Connect with me:</h3>
